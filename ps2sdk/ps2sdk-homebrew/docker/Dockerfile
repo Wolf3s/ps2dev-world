@@ -31,7 +31,7 @@ RUN make
 # Download VCL
 RUN mkdir -p /temp/vcl
 WORKDIR "/temp/vcl"
-RUN git https://github.com/playstation2-development/vcl-v1.3.2
+RUN git clone https://github.com/playstation2-development/vcl
 
 # ------------------------------------------------------------------------------
 
