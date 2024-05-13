@@ -4,7 +4,7 @@ FROM ubuntu:20.04
 # Install necessary packages for PS2DEV, VCLPP and VCL.
 RUN apt-get update
 ARG DEBIAN_FRONTEND=noninteractive
-RUN apt-get install -y git make g++ texinfo bison flex gettext libgmp3-dev \
+RUN apt-get install -y curl git make g++ texinfo bison flex gettext libgmp3-dev \
     libmpfr-dev libmpc-dev gcc binutils cmake wget patch zlib1g-dev libgsl-dev \
     unzip
 
