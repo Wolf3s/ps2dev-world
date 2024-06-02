@@ -18,6 +18,7 @@ This repository aims to bring together “everything” about the game and appli
 - [Samples](#samples)
 - [YouTube Channels](#youtube)
 - [Video Tutorials](#tutorials)
+- [Documents](#documents)
 - [Projects](#projects)
 - [Contribute](#contribute)
 
@@ -45,7 +46,7 @@ This repository aims to bring together “everything” about the game and appli
   ```sh
   git clone https://github.com/playstation2-development/ps2dev-world
   ```
-2. Download the [PCSX2](https://pcsx2.net) and configure and install in your machine
+2. Download the [PCSX2](https://pcsx2.net) install and configure in your machine
 3. Open the PCSX2 e go to "View" and after that "Game List"
 
 <div align="center">
@@ -76,6 +77,10 @@ This repository aims to bring together “everything” about the game and appli
 ## Tutorials
 - [EN - Installation PS2SDK](https://www.youtube.com/watch?v=bsXaR_nWPFY&list=PLeIaNbfDd3faJ6HsjfZfyLgsZLSMcxaUt)
 - [PT - Installation PS2SDK](https://www.youtube.com/watch?v=wEVsYnqjOLA&list=PLeIaNbfDd3fYj3fwXQNdg3kCrcYmJIS_A)
+
+## Documents
+
+- [PS2 Overview](https://psi-rockin.github.io/ps2tek)
 
 ## Projects
 
