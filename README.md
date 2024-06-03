@@ -39,6 +39,29 @@ This repository aims to bring together “everything” about the game and appli
 ## Tools
 
 - [PCSX2](https://pcsx2.net)
+- [PS2SDK PORTS](https://github.com/ps2dev/ps2sdk-ports)
+- [Ps2toolchain-ee](https://github.com/ps2dev/ps2toolchain-ee)
+- [GCC](https://github.com/ps2dev/gcc)
+- [ps2toolchain-iop](https://github.com/ps2dev/ps2toolchain-iop)
+- [newlib](https://github.com/ps2dev/fluidsynth)
+- [FluidSynth](https://github.com/ps2dev/ps2sdk)
+- [ps2toolchain-dvp](https://github.com/ps2dev/ps2toolchain-dvp)
+- [Ps2dev](https://github.com/ps2dev/ps2dev)
+- [PS2Client](https://github.com/ps2dev/ps2client)
+- [ps2toolchain](https://github.com/ps2dev/ps2toolchain)
+- [binutils-gdb](https://github.com/ps2dev/binutils-gdb)
+- [ps2link](https://github.com/ps2dev/ps2link)
+- [pthread-embedded](https://github.com/ps2dev/pthread-embedded)
+- [GSKIT](https://github.com/ps2dev/gsKit)
+- [ps2-packer](https://github.com/ps2dev/ps2-packer)
+- [ps2gdb](https://github.com/ps2dev/ps2gdb)
+- [ps2gl](https://github.com/ps2dev/ps2gl)
+- [Lua](https://github.com/ps2dev/lua)
+- [mymc](https://github.com/ps2dev/mymc)
+- [ps2stuff](https://github.com/ps2dev/ps2stuff)
+- [lwip](https://github.com/ps2dev/lwip)
+- [PS2ETH](https://github.com/ps2dev/ps2eth)
+- [libtap](https://github.com/ps2dev/libtap)
 
 ## Samples
 
@@ -81,11 +104,13 @@ This repository aims to bring together “everything” about the game and appli
 ## Documents
 
 - [PS2 Overview](https://psi-rockin.github.io/ps2tek)
+- [PS2 Architecture](https://www.copetti.org/writings/consoles/playstation-2)
 
 ## Projects
 
 - [Cuphead](https://www.youtube.com/@EclipseBladeStudio)
 - [TyraCraft](https://www.youtube.com/@TyraCraft)
+- [Game With Car](https://github.com/freebytego/gwc-ps2)
 
 ## Contribute
 
