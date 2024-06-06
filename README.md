@@ -8,11 +8,15 @@ This repository aims to bring together “everything” about the game and appli
 
 ## Contents:
 
-- Categories
-    - 2D
-      - [AthenaEnv](#athenaenv)
-    - 3D
-      - [PS2GL](#ps2gl)
+- Engines
+    - [AthenaEnv](#engines)
+    - [Tyra](#engines)
+    - [Xenity Engine](#engines)
+    - [Enceladus](#engines)
+    - [PlayLua Engine](#engines)
+    - [BennuGD](#engines)
+    - [Nichola's PS2 Engine](#engines)
+    - [Aionmagan's PS2 Engine](#engines)
 - [Websites](#websites)
 - [Tools](#tools)
 - [Samples](#samples)
@@ -22,31 +26,37 @@ This repository aims to bring together “everything” about the game and appli
 - [Projects](#projects)
 - [Contribute](#contribute)
 
-## AthenaEnv
+## Engines
 
 - [AthenaEnv](https://github.com/DanielSant0s/AthenaEnv)
-
-## PS2GL
-
-- [PS2GL](https://github.com/ps2dev/ps2gl)
+- [Tyra](https://github.com/h4570/tyra)
+- [Xenity Engine](https://github.com/Fewnity)
+- [Enceladus](https://github.com/DanielSant0s/Enceladus)
+- [PlayLua Engine](https://github.com/cejtok/playluaengine)
+- [BennuGD](https://www.bennugd.org)
+- [Nichola's PS2 Engine](https://github.com/nicholas477/PS2-Engine)
+- [Aionmagan's PS2 Engine](https://github.com/Aionmagan)
 
 ## Websites
 
 - [PS2 HOME](https://www.ps2-home.com)
 - [PS2DEV FORUMS](https://forums.ps2dev.org)
 - [Lukasz.dk](http://www.ps2dev.com)
+- [PSX PLACE](https://www.psx-place.com)
+- [PlayStation 2 Linux Games Programming - Dr Henry S Fortuna](https://ps2-edu.tensioncore.com/index.html)
+- [PlayStation 2 Linux Community](https://ps2linux.no-ip.info/playstation2-linux.com/index.html)
 
 ## Tools
 
 - [PCSX2](https://pcsx2.net)
 - [PS2SDK PORTS](https://github.com/ps2dev/ps2sdk-ports)
-- [Ps2toolchain-ee](https://github.com/ps2dev/ps2toolchain-ee)
+- [ps2toolchain-ee](https://github.com/ps2dev/ps2toolchain-ee)
 - [GCC](https://github.com/ps2dev/gcc)
 - [ps2toolchain-iop](https://github.com/ps2dev/ps2toolchain-iop)
 - [newlib](https://github.com/ps2dev/fluidsynth)
 - [FluidSynth](https://github.com/ps2dev/ps2sdk)
 - [ps2toolchain-dvp](https://github.com/ps2dev/ps2toolchain-dvp)
-- [Ps2dev](https://github.com/ps2dev/ps2dev)
+- [ps2dev](https://github.com/ps2dev/ps2dev)
 - [PS2Client](https://github.com/ps2dev/ps2client)
 - [ps2toolchain](https://github.com/ps2dev/ps2toolchain)
 - [binutils-gdb](https://github.com/ps2dev/binutils-gdb)
@@ -62,6 +72,7 @@ This repository aims to bring together “everything” about the game and appli
 - [lwip](https://github.com/ps2dev/lwip)
 - [PS2ETH](https://github.com/ps2dev/ps2eth)
 - [libtap](https://github.com/ps2dev/libtap)
+- [DKWDRV](https://github.com/DKWDRV)
 
 ## Samples
 
@@ -73,19 +84,19 @@ This repository aims to bring together “everything” about the game and appli
 3. Open the PCSX2 e go to "View" and after that "Game List"
 
 <div align="center">
-  <img src="assets/images/samples-1.png" alt="ps2dev logo">
+  <img src="assets/images/samples-1.png" alt="sample1 icon">
 </div>
 
 4. Add the path of the "samples" folder of this repository
 
 <div align="center">
-  <img src="assets/images/samples-2.png" alt="ps2dev logo">
+  <img src="assets/images/samples-2.png" alt="sample2 icon">
 </div>
 
 5. Run the sample
 
 <div align="center">
-  <img src="assets/images/samples-3.png" alt="ps2dev logo">
+  <img src="assets/images/samples-3.png" alt="sample3 icon">
 </div>
 
 ## YouTube
@@ -105,6 +116,8 @@ This repository aims to bring together “everything” about the game and appli
 
 - [PS2 Overview](https://psi-rockin.github.io/ps2tek)
 - [PS2 Architecture](https://www.copetti.org/writings/consoles/playstation-2)
+- [PlayStation 2 Linux Games Programming](https://ps2-edu.tensioncore.com/index.html)
+- [How do Video Game Graphics Work?](https://www.youtube.com/watch?v=C8YtdC8mxTU&t=770s)
 
 ## Projects
 
