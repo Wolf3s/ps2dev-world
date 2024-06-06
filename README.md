@@ -24,11 +24,11 @@ This repository aims to bring together “everything” about the game and appli
 - [YouTube Channels](#youtube)
 - [Video Tutorials](#tutorials)
 - [Documents](#documents)
-- [PS2 Code Source Leaked](#code-source-leaked)
+- [PS2 Code Source Leaked](#ps2-code-source-leaked)
 - [Projects](#projects)
 - [Contribute](#contribute)
 
-## Engines
+### Engines
 
 1. [AthenaEnv](https://github.com/DanielSant0s/AthenaEnv)
 2. [Tyra](https://github.com/h4570/tyra)
@@ -38,9 +38,9 @@ This repository aims to bring together “everything” about the game and appli
 6. [BennuGD](https://www.bennugd.org)
 7. [Nichola's PS2 Engine](https://github.com/nicholas477/PS2-Engine)
 8. [Aionmagan's PS2 Engine](https://github.com/Aionmagan)
-9. [RenderWare SDK 3.1](https://archive.org/details/monstersinc-code-assets)
+9. [RenderWare SDK 3.1](https://archive.org/details/rw310-ps2)
 
-## Websites
+### Websites
 
 1. [PS2 HOME](https://www.ps2-home.com)
 2. [PS2DEV FORUMS](https://forums.ps2dev.org)
@@ -49,9 +49,9 @@ This repository aims to bring together “everything” about the game and appli
 5. [PlayStation 2 Linux Games Programming - Dr Henry S Fortuna](https://ps2-edu.tensioncore.com/index.html)
 6. [PlayStation 2 Linux Community](https://ps2linux.no-ip.info/playstation2-linux.com/index.html)
 
-## Tools
+### Tools
 
-1. [ PCSX2](https://pcsx2.net)
+1.  [PCSX2](https://pcsx2.net)
 2.  [PS2SDK PORTS](https://github.com/ps2dev/ps2sdk-ports)
 3.  [ps2toolchain-ee](https://github.com/ps2dev/ps2toolchain-ee)
 4.  [GCC](https://github.com/ps2dev/gcc)
@@ -76,8 +76,10 @@ This repository aims to bring together “everything” about the game and appli
 23. [PS2ETH](https://github.com/ps2dev/ps2eth)
 24. [libtap](https://github.com/ps2dev/libtap)
 25. [DKWDRV](https://github.com/DKWDRV)
+26. [Next Generation Playstation Development Software GCC Source 0.2.0 - 0.3.0 [PS2]](https://archive.org/details/next-generation-playstation-development-software-gcc-source-0.2.0-0.3.0-ps2)
+27. [PlayStation 2 July 2005 SDK (version 3.0.3)](https://archive.org/details/PlayStation2July2005SDKversion3.0.3)
 
-## Samples
+### Samples
 
 1. Download this repository
   ```sh
@@ -102,7 +104,7 @@ This repository aims to bring together “everything” about the game and appli
   <img src="assets/images/samples-3.png" alt="sample3 icon">
 </div>
 
-## YouTube
+### YouTube
 1. [PS2DEV](https://youtube.com/@ps2dev)
 2. [Guilherme Lampert](https://www.youtube.com/@GuilhermeLampert)
 3. [Rick Gaiser](https://www.youtube.com/@RickGaiser)
@@ -112,25 +114,26 @@ This repository aims to bring together “everything” about the game and appli
 7. [Fewnity](https://www.youtube.com/@Fewnity)
 8. [Tom Marks Talk Code](https://www.youtube.com/@TomMarksTalksCode)
 
-## Tutorials
+### Tutorials
 1. [EN - Installation PS2SDK](https://www.youtube.com/watch?v=bsXaR_nWPFY&list=PLeIaNbfDd3faJ6HsjfZfyLgsZLSMcxaUt)
 2. [PT - Installation PS2SDK](https://www.youtube.com/watch?v=wEVsYnqjOLA&list=PLeIaNbfDd3fYj3fwXQNdg3kCrcYmJIS_A)
 3. [Making a PS2 Game](https://www.youtube.com/watch?v=kX_JpzxR2Qg&list=PLFZsvEE0TWOsFhZr-9KwLED3Rzlwra_Rm)
 
-## Documents
+### Documents
 
 1. [PS2 Overview](https://psi-rockin.github.io/ps2tek)
 2. [PS2 Architecture](https://www.copetti.org/writings/consoles/playstation-2)
 3. [PlayStation 2 Linux Games Programming](https://ps2-edu.tensioncore.com/index.html)
 4. [How do Video Game Graphics Work?](https://www.youtube.com/watch?v=C8YtdC8mxTU&t=770s)
+5. [PS2 Emotion Engine Library Sample Program Listings](https://archive.org/details/ps-2-emotion-engine-library-sample-program-listings/mode/2up)
 
-## Projects
+### Projects
 
 1. [Cuphead](https://www.youtube.com/@EclipseBladeStudio)
 2. [TyraCraft](https://www.youtube.com/@TyraCraft)
 3. [Game With Car](https://github.com/freebytego/gwc-ps2)
 
-# PS2 Code Source Leaked
+### PS2 Code Source Leaked
 
 1. [Monsters, Inc. PS2 Source Code And Assets](https://archive.org/details/monstersinc-code-assets)
 2. [Extreme G3 Racing PS2 Source Code + PS2 SDK](https://archive.org/details/extreme-g3-racing-source-code)
