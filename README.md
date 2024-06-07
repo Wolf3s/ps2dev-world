@@ -137,6 +137,7 @@ This repository aims to bring together “everything” about the game and appli
 
 1. [Monsters, Inc. PS2 Source Code And Assets](https://archive.org/details/monstersinc-code-assets)
 2. [Extreme G3 Racing PS2 Source Code + PS2 SDK](https://archive.org/details/extreme-g3-racing-source-code)
+3. [Outlaw Golf Source Code (Hypnotix)](https://archive.org/details/GOLFCODE)
 
 ## Contribute
 
@@ -144,6 +145,15 @@ Contributions are always welcome!
 
 ## Credits
 
-Without you all this could not be done
+Without you all this could not be done:
+
+[Nicholas](https://github.com/nicholas477) [Fewnity](https://github.com/Fewnity)
+[Daniel Santos](https://github.com/DanielSant0s) [Aionmagan](https://github.com/Aionmagan)
+[Sandro Sobczyński](https://github.com/h4570) [PauloDevv](https://github.com/PauloDevv)
+[Lucas Teles](https://github.com/lucasoliveirateles) [LuanAlcolea](https://github.com/LuanAlcolea)
+[Wellinator](https://github.com/Wellinator) [Gustavo](https://github.com/GustavoFurtad2)
+[Lucas M. Dutra](https://github.com/terremoth) [Guilherme Lampert](https://www.youtube.com/@GuilhermeLampert)
+[Tom Marks](https://github.com/phy1um) [Rick Gaiser](https://github.com/rickgaiser)
+
 
 PS: If someone is missing from the list, contact me!
