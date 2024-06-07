@@ -147,13 +147,15 @@ Contributions are always welcome!
 
 Without you all this could not be done:
 
-[Nicholas](https://github.com/nicholas477) [Fewnity](https://github.com/Fewnity)
-[Daniel Santos](https://github.com/DanielSant0s) [Aionmagan](https://github.com/Aionmagan)
-[Sandro Sobczyński](https://github.com/h4570) [PauloDevv](https://github.com/PauloDevv)
-[Lucas Teles](https://github.com/lucasoliveirateles) [LuanAlcolea](https://github.com/LuanAlcolea)
-[Wellinator](https://github.com/Wellinator) [Gustavo](https://github.com/GustavoFurtad2)
-[Lucas M. Dutra](https://github.com/terremoth) [Guilherme Lampert](https://www.youtube.com/@GuilhermeLampert)
-[Tom Marks](https://github.com/phy1um) [Rick Gaiser](https://github.com/rickgaiser)
-
+[Nicholas](https://github.com/nicholas477) - [Fewnity](https://github.com/Fewnity) -
+[Daniel Santos](https://github.com/DanielSant0s) - [Aionmagan](https://github.com/Aionmagan) -
+[Sandro Sobczyński](https://github.com/h4570) - [PauloDevv](https://github.com/PauloDevv) -
+[Lucas Teles](https://github.com/lucasoliveirateles) - [LuanAlcolea](https://github.com/LuanAlcolea) -
+[Wellinator](https://github.com/Wellinator) - [Gustavo](https://github.com/GustavoFurtad2) -
+[Lucas M. Dutra](https://github.com/terremoth) - [Guilherme Lampert](https://www.youtube.com/@GuilhermeLampert) -
+[Tom Marks](https://github.com/phy1um) - [Rick Gaiser](https://github.com/rickgaiser) -
+[Francisco Javier Trujillo Mata](https://github.com/fjtrujy) - [Naomi Peori](https://github.com/ooPo) -
+[Julian Uy](https://github.com/uyjulian) - [Matías Israelson](https://github.com/israpps) -
+[André Guilherme](https://github.com/Wolf3s)
 
 PS: If someone is missing from the list, contact me!
