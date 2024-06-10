@@ -78,6 +78,7 @@ This repository aims to bring together “everything” about the game and appli
 25. [DKWDRV](https://github.com/DKWDRV)
 26. [Next Generation Playstation Development Software GCC Source 0.2.0 - 0.3.0 [PS2]](https://archive.org/details/next-generation-playstation-development-software-gcc-source-0.2.0-0.3.0-ps2)
 27. [PlayStation 2 July 2005 SDK (version 3.0.3)](https://archive.org/details/PlayStation2July2005SDKversion3.0.3)
+28. [Open PS2 Loader](https://github.com/ps2homebrew/Open-PS2-Loader)
 
 ### Samples
 
@@ -117,7 +118,7 @@ This repository aims to bring together “everything” about the game and appli
 ### Tutorials
 1. [EN - Installation PS2SDK](https://www.youtube.com/watch?v=bsXaR_nWPFY&list=PLeIaNbfDd3faJ6HsjfZfyLgsZLSMcxaUt)
 2. [PT - Installation PS2SDK](https://www.youtube.com/watch?v=wEVsYnqjOLA&list=PLeIaNbfDd3fYj3fwXQNdg3kCrcYmJIS_A)
-3. [Making a PS2 Game](https://www.youtube.com/watch?v=kX_JpzxR2Qg&list=PLFZsvEE0TWOsFhZr-9KwLED3Rzlwra_Rm)
+3. [Making a PS2 Game - Toma Marks](https://www.youtube.com/watch?v=kX_JpzxR2Qg&list=PLFZsvEE0TWOsFhZr-9KwLED3Rzlwra_Rm)
 
 ### Documents
 
@@ -132,12 +133,14 @@ This repository aims to bring together “everything” about the game and appli
 1. [Cuphead](https://www.youtube.com/@EclipseBladeStudio)
 2. [TyraCraft](https://www.youtube.com/@TyraCraft)
 3. [Game With Car](https://github.com/freebytego/gwc-ps2)
+4. [Undertale](https://github.com/KreitinnSoftware/Undertale-PS2)
 
 ### PS2 Code Source Leaked
 
 1. [Monsters, Inc. PS2 Source Code And Assets](https://archive.org/details/monstersinc-code-assets)
 2. [Extreme G3 Racing PS2 Source Code + PS2 SDK](https://archive.org/details/extreme-g3-racing-source-code)
 3. [Outlaw Golf Source Code (Hypnotix)](https://archive.org/details/GOLFCODE)
+4. [Bloody Roar 4 Review](https://archive.org/details/bloody-roar-4-review)
 
 ## Contribute
 
@@ -156,6 +159,6 @@ Without you all this could not be done:
 [Tom Marks](https://github.com/phy1um) - [Rick Gaiser](https://github.com/rickgaiser) -
 [Francisco Javier Trujillo Mata](https://github.com/fjtrujy) - [Naomi Peori](https://github.com/ooPo) -
 [Julian Uy](https://github.com/uyjulian) - [Matías Israelson](https://github.com/israpps) -
-[André Guilherme](https://github.com/Wolf3s)
+[André Guilherme](https://github.com/Wolf3s) - [Pablo Labs](https://github.com/KreitinnSoftware)
 
 PS: If someone is missing from the list, contact me!
