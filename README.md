@@ -16,7 +16,6 @@ This repository aims to bring together “everything” about the game and appli
     - [PlayLua Engine](#engines)
     - [BennuGD](#engines)
     - [Nichola's PS2 Engine](#engines)
-    - [Aionmagan's PS2 Engine](#engines)
     - [RenderWare SDK 3.1](#engines)
 - [Websites](#websites)
 - [Tools](#tools)
@@ -37,7 +36,6 @@ This repository aims to bring together “everything” about the game and appli
 5. [PlayLua Engine](https://github.com/cejtok/playluaengine)
 6. [BennuGD](https://www.bennugd.org)
 7. [Nichola's PS2 Engine](https://github.com/nicholas477/PS2-Engine)
-8. [Aionmagan's PS2 Engine](https://github.com/Aionmagan)
 9. [RenderWare SDK 3.1](https://archive.org/details/rw310-ps2)
 
 ### Websites
