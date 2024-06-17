@@ -193,7 +193,6 @@ List
 - [Pablo Labs](https://www.youtube.com/@PabloLabs36)
 - [Rick Gaiser](https://www.youtube.com/@RickGaiser)
 - [Tom Marks Talk Code](https://www.youtube.com/@TomMarksTalksCode)
-- [Tom Marks Talk Code](https://www.youtube.com/@TomMarksTalksCode)
 - [Wolf3s](https://www.youtube.com/@wolf3s567)
 
 ### Projects
